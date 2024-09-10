@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "social_networks_pca"
-version = "0.0.1"
+version = "0.0.0"
 description = "Social Networks PCA Tool"
 authors = [
     "Nathan Hui <ntlhui@gmail.com>"
