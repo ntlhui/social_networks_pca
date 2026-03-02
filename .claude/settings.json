@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "deny": [
+      "Read(volumes/**)",
+      "Read(.secrets/**)",
+      "Write(volumes/**)",
+      "Write(.secrets/**)",
+      "Edit(volumes/**)",
+      "Edit(.secrets/**)",
+      "Glob(volumes/**)",
+      "Glob(.secrets/**)"
+    ]
+  }
+}
